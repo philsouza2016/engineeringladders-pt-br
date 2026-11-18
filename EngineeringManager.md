@@ -1,16 +1,16 @@
-# Gerente de Engenharia
+# Engineering Manager
 
 Função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento profissional e nível de felicidade da equipe.
 
 | Nível | Sênior | Posição |
 | :---: | :---: | :---: |
-| 5 | Yes | [GE5 - Gerente de Engenharia 5](#em5---engineering-manager-5) |
-| 6 | Yes | [GE6 - Gerente de Engenharia 6](#em6---engineering-manager-6) |
-| 7 | Yes | [GE7 - Gerente de Engenharia 7](#em7---engineering-manager-7) |
+| 5 | Sim | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
+| 6 | Sim | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
+| 7 | Sim | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
 
-Se você tem outros gerentes como subordinados diretos, talvez queira ler a seção [Gerenciando Gerentes](Managing-Managers.md)  pois ela fornece mais informações sobre o aspecto "Gerenciar Pessoas" da função.
+Se você tem outros gerentes como subordinados diretos, talvez queira ler a seção [Gerenciando Gerentes](Managing-Managers.md) pois ela fornece mais informações sobre o aspecto "Gerenciar Pessoas" da função.
 
-## GE5 - Gerente de Engenharia 5
+## EM5 - Engineering Manager 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
@@ -24,7 +24,7 @@ Se você tem outros gerentes como subordinados diretos, talvez queira ler a seç
 * **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
 * **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
-## GE6 - Gerente de Engenharia 6
+## EM6 - Engineering Manager 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
@@ -38,7 +38,7 @@ Se você tem outros gerentes como subordinados diretos, talvez queira ler a seç
 * **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
 * **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
-## GE7 - Gerente de Engenharia 7
+## EM7 - Engineering Manager 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
@@ -50,13 +50,13 @@ Se você tem outros gerentes como subordinados diretos, talvez queira ler a seç
 * **Evolui**: evolui a arquitetura para suportar requisitos futuros e define seus SLAs
 * **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
 * **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
-* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
+* **Múltiplas equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 # Outras Páginas
 
 * [**Introdução**](README.md)
-* [**Desenvolvedor**](Developer.md)
-* [**Líder Técnico**](TechLead.md)
+* [**Developer**](Developer.md)
+* [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Líder Técnico vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Gerenciando Gerentes**](Managing-Managers.md)

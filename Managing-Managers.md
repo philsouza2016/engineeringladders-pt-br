@@ -44,7 +44,7 @@ Alinhar os objetivos da equipe com os objetivos individuais é fundamental para 
 
 ## Planejamento
 
-Embora o planejamento de curto prazo vs longo prazo seja às vezes visto como um tipo de discussão "negócio vs tecnologia" (veja [Entrega](#delivery)) isso nem sempre é verdade. Em muitos casos, o gerente precisa equilibrar os trade-offs entre uma solução rápida de negócio (ou técnica) e uma de longo prazo. Corrigimos este bug rapidamente ou investimos em uma solução técnica adequada? Criamos um spike descartável rápido ou investimos em uma funcionalidade bem projetada?
+Embora o planejamento de curto prazo vs longo prazo seja às vezes visto como um tipo de discussão "negócio vs tecnologia" (veja [Entrega](#entrega)) isso nem sempre é verdade. Em muitos casos, o gerente precisa equilibrar os trade-offs entre uma solução rápida de negócio (ou técnica) e uma de longo prazo. Corrigimos este bug rapidamente ou investimos em uma solução técnica adequada? Criamos um spike descartável rápido ou investimos em uma funcionalidade bem projetada?
 
 ![Planejamento](/charts/dashboard-planning.png)
 
@@ -74,12 +74,11 @@ A maioria dos gerentes se destaca em construir relacionamentos com seus subordin
 
 ![Relationships](/charts/dashboard-relationships.png)
 
-| VVertical (Gerenciar Para Baixo / Para Cima) | Horizontal (Gerenciar Lateralmente) |
+| Vertical (Gerenciar Para Baixo / Para Cima) | Horizontal (Gerenciar Lateralmente) |
 | :--- | :--- |
 | Supervisores | Stakeholders |
 | Subordinados Diretos | Pares / Outras Equipes |
-| Subordinados Indiretos | Usuários
- |
+| Subordinados Indiretos | Usuários |
 
 ## Conclusão
 
@@ -92,8 +91,8 @@ Em resumo, entender como cada gerente está performando em cada área é uma boa
 # Outras Páginas
 
 * [**Introdução**](README.md)
-* [**Desenvolvedor**](Developer.md)
+* [**Developer**](Developer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Gerente de Programa Técnico**](TechnicalProgramManager.md)
-* [**Gerente de Engenharia**](EngineeringManager.md)
-* [**Tech Lead vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Engineering Manager**](EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)

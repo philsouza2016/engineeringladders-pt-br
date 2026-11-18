@@ -1,8 +1,8 @@
-# Líder Técnico
+# Tech Lead
 
 Função também conhecida como líder de desenvolvimento, é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte de produção.
 
-| Nível | Senior | Posição |
+| Nível | Sênior | Posição |
 | :---: | :---: | :---: |
 | 4 | Sim | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
 | 5 | Sim | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
@@ -50,7 +50,7 @@ Função também conhecida como líder de desenvolvimento, é o proprietário do
 * **Lidera**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
 * **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
 * **Define**: define os processos adequados para o nível de maturidade da equipe, equilibrando agilidade e disciplina
-* **Múltiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
+* **Múltiplas equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 ## TL7 - Tech Lead 7
 
@@ -69,8 +69,8 @@ Função também conhecida como líder de desenvolvimento, é o proprietário do
 # Outras Páginas
 
 * [**Introdução**](README.md)
-* [**Desenvolvedor**](Developer.md)
-* [**Gerente de Programa Técnico**](TechnicalProgramManager.md)
-* [**Gerente de Engenharia**](EngineeringManager.md)
-* [**Tech Lead vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Developer**](Developer.md)
+* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Engineering Manager**](EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Gerenciando Gerentes**](Managing-Managers.md)

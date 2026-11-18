@@ -1,18 +1,18 @@
-# Desenvolvedor
+# Developer
 
 Função também conhecida como programador ou engenheiro de software, requer um nível profundo de conhecimento técnico.
 
 | Nível | Sênior | Posição |
 | :---: | :---: | :---: |
-| 1 | No | [D1 - Desenvolvedor 1](#d1---developer-1) |
-| 2 | No | [D2 - Desenvolvedor 2](#d2---developer-2) |
-| 3 | No | [D3 - Desenvolvedor 3](#d3---developer-3) |
-| 4 | Yes | [D4 - Desenvolvedor 4](#d4---developer-4) |
-| 5 | Yes | [D5 - Desenvolvedor 5](#d5---developer-5) |
-| 6 | Yes | [D6 - Desenvolvedor 6](#d6---developer-6) |
-| 7 | Yes | [D7 - Desenvolvedor 7](#d7---developer-7) |
+| 1 | Não | [D1 - Developer 1](#d1---developer-1) |
+| 2 | Não | [D2 - Developer 2](#d2---developer-2) |
+| 3 | Não | [D3 - Developer 3](#d3---developer-3) |
+| 4 | Sim | [D4 - Developer 4](#d4---developer-4) |
+| 5 | Sim | [D5 - Developer 5](#d5---developer-5) |
+| 6 | Sim | [D6 - Developer 6](#d6---developer-6) |
+| 7 | Sim | [D7 - Developer 7](#d7---developer-7) |
 
-## D1 - Desenvolvedor 1
+## D1 - Developer 1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
@@ -26,7 +26,7 @@ Função também conhecida como programador ou engenheiro de software, requer um
 * **Segue**: segue os processos da equipe, entregando um fluxo consistente de funcionalidades para produção
 * **Subsistema**: causa impacto em um ou mais subsistemas
 
-## D2 - Desenvolvedor 2
+## D2 - Developer 2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
@@ -40,7 +40,7 @@ Função também conhecida como programador ou engenheiro de software, requer um
 * **Reforça**: reforça os processos da equipe, garantindo que todos entendam os benefícios e trade-offs
 * **Subsistema**: causa impacto em um ou mais subsistemas
 
-## D3 - Desenvolvedor 3
+## D3 - Developer 3
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
@@ -52,9 +52,9 @@ Função também conhecida como programador ou engenheiro de software, requer um
 * **Projeta**: projeta e implementa funcionalidades de médio a grande porte enquanto reduz a dívida técnica do sistema
 * **Apoia**: apoia proativamente outros membros da equipe e os ajuda a ter sucesso
 * **Desafia**: desafia os processos da equipe, procurando maneiras de melhorá-los
-* **Time**: causa impacto em toda a equipe, não apenas em partes específicas dela
+* **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
-## D4 - Desenvolvedor 4
+## D4 - Developer 4
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
@@ -66,9 +66,9 @@ Função também conhecida como programador ou engenheiro de software, requer um
 * **Possui**: possui a operação de produção e monitoramento do sistema e está ciente de seus SLAs
 * **Mentora**: mentora outros para acelerar seu crescimento profissional e os encoraja a participar
 * **Desafia**: desafia os processos da equipe, procurando maneiras de melhorá-los
-* **Time**: causa impacto em toda a equipe, não apenas em partes específicas dela
+* **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
 
-## D5 - Desenvolvedor 5
+## D5 - Developer 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
@@ -76,13 +76,13 @@ Função também conhecida como programador ou engenheiro de software, requer um
   <img alt="Developer 5" src="/charts/developer-5.png">
 </picture>
 
-* **Cria**: possui conhecimento muito profundo sobre toda a stack tecnológica do sistema
+* **Domina**: possui conhecimento muito profundo sobre toda a stack tecnológica do sistema
 * **Evolui**: evolui a arquitetura para suportar requisitos futuros e define seus SLAs
 * **Mentora**: mentora outros para acelerar seu crescimento profissional e os encoraja a participar
 * **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
-* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
+* **Múltiplas equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
-## D6 - Desenvolvedor 6
+## D6 - Developer 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
@@ -91,12 +91,12 @@ Função também conhecida como programador ou engenheiro de software, requer um
 </picture>
 
 * **Cria**: projeta e cria novas tecnologias que são amplamente utilizadas por equipes internas ou externas
-* **Lidera**: llidera a excelência técnica do sistema e cria planos para mitigar interrupções
+* **Lidera**: lidera a excelência técnica do sistema e cria planos para mitigar interrupções
 * **Mentora**: mentora outros para acelerar seu crescimento profissional e os encoraja a participar
-* **Ajusta**: aajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
+* **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
 * **Empresa**: causa impacto em toda a organização de tecnologia
 
-## D7 - Desenvolvedor 7
+## D7 - Developer 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
@@ -112,9 +112,9 @@ Função também conhecida como programador ou engenheiro de software, requer um
 
 # Outras Páginas
 
-* [**Desenvolvedor**](Developer.md)
-* [**Líder Técnico**](TechLead.md)
+* [**Developer**](Developer.md)
+* [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Gerente de Engenharia**](EngineeringManager.md)
-* [**Líder Técnico vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
-* [**Gerenciado Gerentes**](Managing-Managers.md)
+* [**Engineering Manager**](EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Gerenciando Gerentes**](Managing-Managers.md)

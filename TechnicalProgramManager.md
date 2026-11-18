@@ -4,10 +4,10 @@ Função responsável por coordenar e conduzir até a conclusão iniciativas que
 
 | Nível | Sênior | Posição |
 | :---: | :---: | :---: |
-| 4 | Yes | [TPM4 - Technical Program Manager 4](#tpm4---technical-program-manager-4) |
-| 5 | Yes | [TPM5 - Technical Program Manager 5](#tpm5---technical-program-manager-5) |
-| 6 | Yes | [TPM6 - Technical Program Manager 6](#tpm6---technical-program-manager-6) |
-| 7 | Yes | [TPM7 - Technical Program Manager 7](#tpm7---technical-program-manager-7) |
+| 4 | Sim | [TPM4 - Technical Program Manager 4](#tpm4---technical-program-manager-4) |
+| 5 | Sim | [TPM5 - Technical Program Manager 5](#tpm5---technical-program-manager-5) |
+| 6 | Sim | [TPM6 - Technical Program Manager 6](#tpm6---technical-program-manager-6) |
+| 7 | Sim | [TPM7 - Technical Program Manager 7](#tpm7---technical-program-manager-7) |
 
 
 ## TPM4 - Technical Program Manager 4
@@ -22,7 +22,7 @@ Função responsável por coordenar e conduzir até a conclusão iniciativas que
 * **Projeta**: projeta e implementa funcionalidades de médio a grande porte enquanto reduz a dívida técnica do sistema
 * **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
 * **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
-* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
+* **Múltiplas equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 ## TPM5 - Technical Program Manager 5
 
@@ -36,7 +36,7 @@ Função responsável por coordenar e conduzir até a conclusão iniciativas que
 * **Projeta**: projeta e implementa funcionalidades de médio a grande porte enquanto reduz a dívida técnica do sistema
 * **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
 * **Define**: define os processos corretos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
-* **Multiplas Equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
+* **Múltiplas equipes**: causa impacto não apenas em toda a equipe, mas também em outras equipes
 
 ## TPM6 - Technical Program Manager 6
 
@@ -69,8 +69,8 @@ Função responsável por coordenar e conduzir até a conclusão iniciativas que
 # Outras Páginas
 
 * [**Introdução**](README.md)
-* [**Desenvolvedor**](Developer.md)
+* [**Developer**](Developer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Gerente de Engenharia**](EngineeringManager.md)
-* [**Tech Lead vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
+* [**Engineering Manager**](EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Gerenciando Gerentes**](Managing-Managers.md)

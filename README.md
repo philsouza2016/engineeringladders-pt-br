@@ -1,3 +1,13 @@
+> Tradução não oficial para português do Brasil de [engineeringladders.com](https://www.engineeringladders.com/). Versão 0.9: o texto está em português; os gráficos de radar ainda estão em inglês.
+>
+> Os nomes das funções permanecem em inglês. Equivalentes usados por RH no Brasil:
+>
+> - **Developer:** Desenvolvedor, Engenheiro de Software
+> - **Tech Lead:** Líder técnico
+> - **Engineering Manager:** Gerente de engenharia, Gerente de desenvolvimento
+> - **Technical Program Manager:** Gerente de programas técnicos
+> - **Senior** (a partir do nível 4): Sênior
+
 # Introdução
 
 Este framework permite que gerentes de engenharia de software tenham conversas significativas com seus subordinados diretos sobre as expectativas de cada posição e como planejar o próximo nível em sua trilha de carreira.
@@ -16,24 +26,24 @@ O framework depende muito de gráficos de radar para representar visualmente as 
 
 O framework possui 4 trilhas diferentes:
 
-* [**Desenvolvedor**](Developer.md): função também conhecida como programador ou engenheiro de software, requer um nível profundo de especialização técnica
+* [**Developer**](Developer.md): função também conhecida como programador ou engenheiro de software, requer um nível profundo de especialização técnica
 
-* [**Líder Técnico**](TechLead.md): função também conhecida como líder de desenvolvimento, é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte de produção
+* [**Tech Lead**](TechLead.md): função também conhecida como líder de desenvolvimento, é o proprietário do sistema e requer um equilíbrio único entre desenvolvimento prático, conhecimento de arquitetura e suporte de produção
 
 * [**Technical Program Manager**](TechnicalProgramManager.md): função responsável por coordenar e conduzir à conclusão iniciativas que abrangem múltiplas equipes
-* [**Gerente de Engenharia**](EngineeringManager.md): função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento de carreira e nível de felicidade da equipe
+* [**Engineering Manager**](EngineeringManager.md): função também conhecida como gerente de desenvolvimento, é responsável pela entrega consistente, crescimento de carreira e nível de felicidade da equipe
 
-Se você está confuso sobre a diferença entre um [Líder Técnico](TechLead.md) e um [Gerente de Engenharia](EngineeringManager.md), por favor consulte a página [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) para uma comparação detalhada.
+Se você está confuso sobre a diferença entre um [Tech Lead](TechLead.md) e um [Engineering Manager](EngineeringManager.md), por favor consulte a página [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) para uma comparação detalhada.
 
-| Nível | Sênior | [Desenvolvedor](Developer.md) | [Líder Técnico](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Gerente de Engenharia](EngineeringManager.md) |
+| Nível | Sênior | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
 | 1 | Não | [D1](Developer.md#d1---developer-1) | | | |
 | 2 | Não | [D2](Developer.md#d2---developer-2) | | | |
 | 3 | Não | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Sim | [D4](Developer.md#d4---developer-4) | [LT4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Sim | [D5](Developer.md#d5---developer-5) | [LT5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [GE5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Sim | [D6](Developer.md#d6---developer-6) | [LT6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [GE6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Sim | [D7](Developer.md#d7---developer-7) | [LT7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [GE7](EngineeringManager.md#em7---engineering-manager-7) |
+| 4 | Sim | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
+| 5 | Sim | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Sim | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Sim | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (clique no nome da posição para mais detalhes)
 
@@ -78,10 +88,10 @@ Continue lendo para entender melhor cada nível.
 4. **Coordena**: coordena membros da equipe fornecendo feedback efetivo e moderando discussões
 5. **Gerencia**: gerencia a carreira, expectativas, desempenho e nível de felicidade dos membros da equipe
 
-## Processos
+## Processo
 
 1. **Segue**: segue os processos da equipe, entregando um fluxo consistente de funcionalidades para produção
-2. **Aplica**: aplica os processos da equipe, garantindo que todos entendam os benefícios e trade-offs
+2. **Reforça**: reforça os processos da equipe, garantindo que todos entendam os benefícios e trade-offs
 3. **Desafia**: desafia os processos da equipe, procurando maneiras de melhorá-los
 4. **Ajusta**: ajusta os processos da equipe, ouvindo feedback e guiando a equipe através das mudanças
 5. **Define**: define os processos certos para o nível de maturidade da equipe, equilibrando agilidade e disciplina
@@ -89,10 +99,10 @@ Continue lendo para entender melhor cada nível.
 ## Influência
 
 1. **Subsistema**: causa impacto em um ou mais subsistemas
-2. **Time**: causa impacto em toda a equipe, não apenas em partes específicas dela
-3. **Multiplos Times**: causa impacto não apenas em sua equipe, mas também em outras equipes
+2. **Equipe**: causa impacto em toda a equipe, não apenas em partes específicas dela
+3. **Múltiplas equipes**: causa impacto não apenas em sua equipe, mas também em outras equipes
 4. **Empresa**: causa impacto em toda a organização tecnológica
-5. **Comunidade**: causa impacto na comunidade de tecnológia
+5. **Comunidade**: causa impacto na comunidade de tecnologia
 
 # Perguntas Frequentes
 
@@ -102,20 +112,20 @@ Isso é muito normal, as pessoas geralmente são mais fortes em algumas áreas e
 
 **E se a trilha de carreira da minha organização for diferente?**
 
-Como o framework é open source, você tem a oportunidade de adaptá-lo à sua organização. inta-se à vontade para usar o [modelo gráfico](charts/template.png) para definir seus próprios níveis.
+Como o framework é open source, você tem a oportunidade de adaptá-lo à sua organização. Sinta-se à vontade para usar o [modelo gráfico](charts/template.png) para definir seus próprios níveis.
 
 **Quando uma pessoa está pronta para passar para o próximo nível?**
 
 As empresas geralmente esperam que uma pessoa esteja performando no próximo nível *consistentemente por vários meses* antes de formalizar uma promoção.
 
-**Como coleto evidências para apoiar a discussão com meus subordinados diretos??**
+**Como coleto evidências para apoiar a discussão com meus subordinados diretos?**
 
 Diferentes equipes coletam evidências de maneiras diferentes. Uma abordagem recomendada é usar uma combinação de:
 * Conversas 1:1
 * Feedback de colegas e outras equipes
 * Autoavaliação
 
-**CO framework poderia fornecer exemplos mais específicos de comportamento para apoiar cada nível?**
+**O framework poderia fornecer exemplos mais específicos de comportamento para apoiar cada nível?**
 
 Exemplos específicos de comportamento requerem conhecimento sobre a forma como a equipe trabalha, a arquitetura do sistema e sua pilha tecnológica. É recomendado permitir que cada equipe defina seus próprios exemplos.
 
@@ -131,9 +141,9 @@ Os níveis 8 e acima variam drasticamente de empresa para empresa. Organizaçõe
 
 # Outras Páginas
 
-* [**Desenvolvedor**](Developer.md)
-* [**Líder Técnico**](TechLead.md)
+* [**Developer**](Developer.md)
+* [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Gerente de Engenharia**](EngineeringManager.md)
-* [**Líder Técnico vs Gerente de Engenharia**](TechLead-EngineeringManager.md)
-* [**Gerenciado Gerentes**](Managing-Managers.md)
+* [**Engineering Manager**](EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Gerenciando Gerentes**](Managing-Managers.md)
